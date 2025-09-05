@@ -13,6 +13,7 @@ git reset <nome do arquivo> - remove do stage
 Git checkout -b <nome da branch> - cria uma branch paralela - -b cria branch nova
 git checkout <nome da branch> - muda de branch
 git branch - mostra todas as branchs  
+git merge <nome da branch> - traz para a branch atual as alterações feitas na branch descrita <> 
 
 ## FLUXO DE TRABALHO
 1. Cria diretório do projeto
