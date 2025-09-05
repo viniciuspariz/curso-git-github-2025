@@ -10,7 +10,9 @@ git log - mostra todos os commits
 git log --oneline  - mostra de forma resumida
 git diff <nome do arquivo> - diferença entre o estado atual e o ultimo commit
 git reset <nome do arquivo> - remove do stage
- 
+Git checkout -b <nome da branch> - cria uma branch paralela - -b cria branch nova
+git checkout <nome da branch> - muda de branch
+git branch - mostra todas as branchs  
 
 ## FLUXO DE TRABALHO
 1. Cria diretório do projeto
