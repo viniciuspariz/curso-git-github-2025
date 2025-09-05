@@ -1,12 +1,10 @@
+BASH - Born Against Shell
 ls -> lista arquivos
 cd -> move entre diretórios
 pwd - mostra diretorio de trabalho
 cat - mostra o que tem dentro do arquivo editável
 rm -rf {obj} - remove o objeto -rf recursive force (força o remove de forma recursiva(apaga todas as subpastas também e nao pede confirmacao)
-
-Comandos git
-
-git init . - cria um repositório vazio na pasta selecionada
-git status - mostra o status do git
-git add - aficionado arquivos para o commit
+mkdir - cria pasta
+nano {arquivo} - abre editor
+touch {arquivo} - cria arquivo
 
