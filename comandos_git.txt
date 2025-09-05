@@ -8,4 +8,17 @@ git config --global user.email  - verifica o que tem salvo
 git config --global user.name  - verifica o que tem salvo
 git log - mostra todos os commits
 git log --oneline  - mostra de forma resumida
-   
+git diff <nome do arquivo> - diferença entre o estado atual e o ultimo commit
+git reset <nome do arquivo> - remove do stage
+ 
+
+## FLUXO DE TRABALHO
+1. Cria diretório do projeto
+2. Iniciar o git dentro do diretório criado (git init .)
+3. Edita ou cira arquivos
+4. git status
+5. git add <nome aqruivo>
+6. git status
+7. git commit -m"mensagem"
+8. Git status
+9. Volta para o passo 3
