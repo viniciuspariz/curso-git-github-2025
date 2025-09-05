@@ -6,4 +6,6 @@ git config --global user.email "(add email)"  - adiciona email
 git config --global user.name "(add nome)" - adiciona nome
 git config --global user.email  - verifica o que tem salvo
 git config --global user.name  - verifica o que tem salvo
- 
+git log - mostra todos os commits
+git log --oneline  - mostra de forma resumida
+   
