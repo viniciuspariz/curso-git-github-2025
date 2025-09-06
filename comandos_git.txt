@@ -1,9 +1,9 @@
-git init . - cria um repositório vazio na pasta selecionada
-git status - mostra o status do git
-git add {arquivo}  - aficionado arquivos para o commit
+git init . 		- cria um repositório vazio na pasta selecionada
+git status 		- mostra o status do git
+git add {arquivo}  	- aficionado arquivos para o commit
 git commit -m "(add sua msg aqui)" - comita os arquivos adicionados e adiciona uma frase.
-git config --global user.email "(add email)"  - adiciona email 
-git config --global user.name "(add nome)" - adiciona nome
+git config --global user.email "<add email>"  - adiciona email 
+git config --global user.name "<add nome>" - adiciona nome
 git config --global user.email  - verifica o que tem salvo
 git config --global user.name  - verifica o que tem salvo
 git log - mostra todos os commits
