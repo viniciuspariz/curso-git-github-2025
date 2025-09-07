@@ -19,10 +19,6 @@ git push origin <branch> - envia alteracoes para o github
 git pull origin <branch> - baixa alteracoes do remoto
 git fetch - reconhece localmente as branchs remotas
 
-
-
-
-
 ## FLUXO DE TRABALHO
 1. Cria diretório do projeto
 2. Iniciar o git dentro do diretório criado (git init .)
