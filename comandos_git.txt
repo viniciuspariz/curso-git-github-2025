@@ -14,6 +14,10 @@ Git checkout -b <nome da branch> - cria uma branch paralela - -b cria branch nov
 git checkout <nome da branch> - muda de branch
 git branch - mostra todas as branchs  
 git merge <nome da branch> - traz para a branch atual as alterações feitas na branch descrita <> 
+git remote origin main <endereco github> - envia projeto pro github
+git push origin <branch> - envia alteracoes para o github
+git pull origin <branch> - baixa alteracoes do remoto
+git fetch - reconhece localmente as branchs remotas
 
 ## FLUXO DE TRABALHO
 1. Cria diretório do projeto
